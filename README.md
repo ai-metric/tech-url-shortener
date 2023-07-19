@@ -9,16 +9,14 @@
     </a>
 </p>
 
-<h1 align="center">AI Metric Template Repository</h1><br />
+<h1 align="center">URL Shortener</h1><br />
+
+A simple URL shortener in Yii 2 Framework to support our project, services and tools.
 
 This is a general overview. For technical information, follow to the [TECH.md](TECH.md) file. For legal stuff -- to [LICENSE.md](LICENSE.md).
 
-This README file is very large. We keep all the technical stuff, information, tools etc. in here. This is intentional.
-We don't want to put this information into Wiki (where it belongs). Wikis are available free of charge only in **public**
-GitHub repos. While most of our repos, created based on this template, will be _private_.
-
-This is a template repository that  contains information mostly on technical stuff etc. Feel free to rip off this  part 
-(or any other in this document) and replace it with actual content about your repository.
+WORK IN PROGRESS. STOP HERE. THE REMAINING PART OF THIS TEXT IS A GARBAGE GENERATED OUT OF OUR TEMPLATE REPOSITORY AND HAS 
+NOTHING TO DO WITH THE SUBJECT (URL SHORTENER).
 
 - [Tools](#tools)
     * [Passwords and keys](#passwords-and-keys)
